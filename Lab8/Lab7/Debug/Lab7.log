@@ -1,0 +1,15 @@
+﻿Сборка начата 16.01.2014 0:26:10.
+     1>Проект "E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Lab7\Lab7.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lab7.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Lab7.cpp
+         Lab7.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Debug\Lab7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Debug\Lab7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Debug\Lab7.lib" /MACHINE:X86 Debug\ID.obj
+         Debug\Lab7.obj
+         Debug\stdafx.obj
+         Lab7.vcxproj -> E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Debug\Lab7.exe
+     1>Построение проекта "E:\Документы\3 семестр (2013)\КС (ЛР)\Lab7\Lab7\Lab7.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:13.11
